@@ -1,4 +1,4 @@
-# Predicting stock movements using NLP and Deep Learning
+# Predicting Stock Movements Using NLP and Deep Learning
 
 ## 1. Problem Statement
 
@@ -72,4 +72,6 @@ the potential to revolutionize the stock market trading.
 release. However, it is also quite possible that stock movements may react in the days
 following the release of news headlines.
 
-## 7. The full report and slide deck are also provided as separate PDF files under the report file.
+## 7. Write Ups
+
+The full report and slide deck are also provided as separate PDF files under the report file.
